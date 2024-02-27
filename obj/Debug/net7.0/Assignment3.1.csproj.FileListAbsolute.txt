@@ -1,0 +1,14 @@
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\bin\Debug\net7.0\Assignment3.1.exe
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\bin\Debug\net7.0\Assignment3.1.deps.json
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\bin\Debug\net7.0\Assignment3.1.runtimeconfig.json
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\bin\Debug\net7.0\Assignment3.1.dll
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\bin\Debug\net7.0\Assignment3.1.pdb
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.AssemblyInfoInputs.cache
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.AssemblyInfo.cs
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.csproj.CoreCompileInputs.cache
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.dll
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\refint\Assignment3.1.dll
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.pdb
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\Assignment3.1.genruntimeconfig.cache
+C:\!uni\algorithms\projects\Assignment3.1\Assignment3.1\obj\Debug\net7.0\ref\Assignment3.1.dll
